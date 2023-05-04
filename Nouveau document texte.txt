@@ -1,0 +1,15 @@
+alert("csalut");
+var number=0;
+while (number<3)
+{
+console.log("enter yourcard code"+number);
+number++;
+
+
+}
+
+var number=0;
+do {
+console.log(number);
+number++;
+}
